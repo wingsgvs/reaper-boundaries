@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LaSalle Street Corridor",
+        "taxonomy_id": 21,
+        "type": "corridor",
+        "level": "corridor",
+        "community_area": "Loop",
+        "downtown_zone": "central",
+        "submarket": "Loop/New East Side"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.633861, 41.8838703],
+            [-87.6336717, 41.8769208],
+            [-87.6308468, 41.8769317],
+            [-87.6309196, 41.880748],
+            [-87.6313273, 41.880748],
+            [-87.6313419, 41.8810082],
+            [-87.6314584, 41.8810191],
+            [-87.6314875, 41.8820273],
+            [-87.6317641, 41.8820273],
+            [-87.6317496, 41.8832849],
+            [-87.632565, 41.8832741],
+            [-87.6325942, 41.8838703],
+            [-87.633861, 41.8838703]
+          ]
+        ]
+      }
+    }
+  ]
+}
