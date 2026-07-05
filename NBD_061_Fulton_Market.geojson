@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fulton Market",
+        "taxonomy_id": 61,
+        "type": "subarea",
+        "level": "sub_neighborhood",
+        "community_area": "Near West Side",
+        "downtown_zone": "west",
+        "submarket": "West Loop/River West"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.647744, 41.8900742],
+            [-87.6598059, 41.8899086],
+            [-87.6613286, 41.8875396],
+            [-87.6633132, 41.8840241],
+            [-87.6643569, 41.8829414],
+            [-87.6474873, 41.8832344],
+            [-87.647744, 41.8900742]
+          ]
+        ]
+      }
+    }
+  ]
+}
