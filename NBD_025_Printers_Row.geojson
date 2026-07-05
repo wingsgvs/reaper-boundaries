@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Printer's Row",
+        "taxonomy_id": 25,
+        "type": "neighborhood",
+        "level": "base_neighborhood",
+        "community_area": "Loop",
+        "downtown_zone": "central",
+        "submarket": "South Loop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.6277098, 41.8755381],
+            [-87.6306549, 41.8754747],
+            [-87.6305357, 41.8722993],
+            [-87.6276842, 41.8723437],
+            [-87.6277098, 41.8755381]
+          ]
+        ]
+      }
+    }
+  ]
+}
