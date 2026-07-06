@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Loop",
+        "type": "submarket",
+        "downtown_zone": "south",
+        "submarket": "South Loop",
+        "neighborhoods": "Dearborn Park I, Dearborn Park II, Printer's Row, Museum Park, Central Station, Prairie Avenue Historic District"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.6433363, 41.8753958],
+            [-87.6441582, 41.8751044],
+            [-87.6445495, 41.874405],
+            [-87.6439234, 41.8569471],
+            [-87.6448626, 41.8533908],
+            [-87.6448626, 41.8528078],
+            [-87.614767, 41.8529827],
+            [-87.6193068, 41.8633013],
+            [-87.6196981, 41.8661284],
+            [-87.6195025, 41.8670027],
+            [-87.6186415, 41.8680228],
+            [-87.6174674, 41.8693342],
+            [-87.61735, 41.8698588],
+            [-87.6174282, 41.8755415],
+            [-87.6433363, 41.8753958]
+          ]
+        ]
+      }
+    }
+  ]
+}
