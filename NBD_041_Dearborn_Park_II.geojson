@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dearborn Park II",
+        "taxonomy_id": 41,
+        "type": "neighborhood",
+        "level": "base_neighborhood",
+        "community_area": "Loop",
+        "downtown_zone": "south",
+        "submarket": "South Loop",
+        "notes": "Southern phase of Dearborn Park. Roosevelt Rd (N) to approx. 18th St (S)."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.6275855, 41.8672518],
+            [-87.6304246, 41.86723],
+            [-87.6304177, 41.8665303],
+            [-87.6302231, 41.8642113],
+            [-87.6302231, 41.8604265],
+            [-87.6289039, 41.8607486],
+            [-87.6274118, 41.8607325],
+            [-87.6275855, 41.8672518]
+          ]
+        ]
+      }
+    }
+  ]
+}
