@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dearborn Park I",
+        "taxonomy_id": 41,
+        "type": "neighborhood",
+        "level": "base_neighborhood",
+        "community_area": "Loop",
+        "downtown_zone": "south",
+        "submarket": "South Loop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.6277578, 41.872247],
+            [-87.6305691, 41.8722309],
+            [-87.6304177, 41.8674000],
+            [-87.6274118, 41.8674000],
+            [-87.6277578, 41.872247]
+          ]
+        ]
+      }
+    }
+  ]
+}
